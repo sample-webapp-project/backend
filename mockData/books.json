@@ -1,0 +1,17 @@
+[
+    {
+        "title": "The Hobbit",
+        "description": "A hobbit is a small human-like creature that lives in a hole in the ground.",
+        "photo": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "description": "A ring is a magical object that can make you invisible.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/8/87/Ringstrilogyposter.jpg"
+    },
+    {
+        "title": "The Silmarillion",
+        "description": "A Silmaril is a magical gemstone that can make you invisible.",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/8/87/Ringstrilogyposter.jpg"
+    }
+]
